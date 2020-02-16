@@ -56,7 +56,7 @@ public class ApiKougawaController {
 
 	
 
-	// step 1-2 Getでクエリパラメータを受け取って、二乗を返す
+	// step 1-2 Getでクエリパラメータを受け取って、二乗をかえす
 
 	@RequestMapping(path = "/step1_2", method = RequestMethod.GET)
 
